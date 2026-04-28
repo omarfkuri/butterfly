@@ -1,7 +1,7 @@
 # Tasks
 
 - [ ] **1. Setup**
-	- [ ] Git
+	- [x] Git
 		- [x] Gitignore
 		- [x] Readme
 		- [x] GitHub
