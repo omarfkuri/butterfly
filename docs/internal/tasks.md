@@ -2,7 +2,7 @@
 
 - [ ] **1. Setup**
 	- [ ] Git
-		- [ ] Gitignore
+		- [x] Gitignore
 		- [ ] Readme
 		- [ ] GitHub
 	- [ ] Contracts
