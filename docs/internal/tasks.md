@@ -4,7 +4,7 @@
 	- [ ] Git
 		- [x] Gitignore
 		- [x] Readme
-		- [ ] GitHub
+		- [x] GitHub
 	- [ ] Contracts
 		- [ ] Domain
 			- [ ] User
