@@ -3,7 +3,7 @@
 - [ ] **1. Setup**
 	- [ ] Git
 		- [x] Gitignore
-		- [ ] Readme
+		- [x] Readme
 		- [ ] GitHub
 	- [ ] Contracts
 		- [ ] Domain
